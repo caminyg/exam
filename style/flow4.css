@@ -126,3 +126,14 @@ body {
 #image {
     width: 60%;
 }
+
+.feedbackpara {
+    width: 50%;
+    color: #303030;
+    margin: 0 auto;
+}
+
+ul {
+	list-style-type: none;
+    text-align: left;
+}

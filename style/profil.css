@@ -126,7 +126,7 @@ body {
 /* Container for skill bars */
 .skill {
     width: 100%; /* Full width */
-    background-color: #E4E0DB; /* Grey background */
+    background-color: #e3dcd1; /* Grey background */
     border-radius: 40px;
 }
 
@@ -167,7 +167,7 @@ p {
 }
 
 #del3 {
-    background-color: #E4E0DB; 
+    background-color: #e3dcd1; 
 }
 
 .final {

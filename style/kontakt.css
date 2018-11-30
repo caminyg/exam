@@ -107,21 +107,21 @@ body {
     padding: 1em;;
     width: 60%;
     border: none;
-    background: #E4E0DB;
+    background: #e3dcd1;
     font-family: 'IM Fell Double Pica', serif;
     color: #A27A45;
 }
 
 #messagebox {
     height: 10em;
-    background: #E4E0DB;
+    background: #e3dcd1;
 }
 
 #submitbutton {
     margin-bottom: 1em;
     padding: 0.75em;
     border: none;
-    background-color: #E4E0DB;
+    background-color: #e3dcd1;
     cursor: pointer;  
     font-family: 'IM Fell Double Pica', serif;
     color: #A27A45;
