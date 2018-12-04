@@ -74,7 +74,7 @@ body {
     font-size: 1em;
 }
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #D0BBB8;}
+.dropdown-content a:hover {background-color: #d5c8c2;}
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 #main {
@@ -146,16 +146,16 @@ p {
     color: #303030;
 }
 
-.html {width: 55%; background-color: #D0BBB8;}
-.css {width: 55%; background-color: #D0BBB8;}
-.js {width: 40%; background-color: #D0BBB8;}
-.photoshop {width: 65%; background-color: #D0BBB8;}
-.illu {width: 75%; background-color: #D0BBB8;}
-.dream {width: 65%; background-color: #D0BBB8;}
-.xd {width: 90%; background-color: #D0BBB8;}
+.html {width: 55%; background-color: #d5c8c2;}
+.css {width: 55%; background-color: #d5c8c2;}
+.js {width: 40%; background-color: #d5c8c2;}
+.photoshop {width: 65%; background-color: #d5c8c2;}
+.illu {width: 75%; background-color: #d5c8c2;}
+.dream {width: 65%; background-color: #d5c8c2;}
+.xd {width: 90%; background-color: #d5c8c2;}
 
 #del1 {
-    background-color: #D0BBB8;
+    background-color: #d5c8c2;
 }
 
 #del2 {

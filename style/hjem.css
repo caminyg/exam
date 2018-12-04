@@ -74,7 +74,7 @@ body {
     font-size: 1em;
 }
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #D0BBB8;}
+.dropdown-content a:hover {background-color: #d5c8c2;}
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 #main {
