@@ -127,3 +127,14 @@ p {
 .flowlinks {
     color: #A37A45;
 }
+
+.figureimg {
+    width: 60%;
+}
+
+figcaption {
+    color: #303030;
+    font-style: italic;    
+}
+
+
