@@ -138,11 +138,22 @@ a {
 
 p {
     margin: 0 auto;
-    padding: 0.75em;;
-    color: #A27A45;;
+    padding: 0.75em;
+    color: #A27A45;
     font-family: 'IM Fell Double Pica', serif;
 }
 
 .overskrift {
     margin: 0 auto;
+    font-size: 1.5em;
+    padding-top: 1em;
+}
+
+.buscard {
+    width: 40%;
+    padding: 0;
+}
+
+.del2 {
+    background: #E3D4C8;
 }
