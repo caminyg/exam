@@ -122,3 +122,12 @@ body {
     margin: 0 auto;
     padding-top: 1em;
 }
+
+.image {
+    width: 60%;
+}
+
+figcaption {
+    color: #303030;
+    font-style: italic;    
+}
