@@ -142,8 +142,20 @@ ul {
     width: 70%;
 }
 
+@media (max-width: 800px) {
+    #headerimg {
+        width: 600px;
+    }
+    .links {
+        display: grid;
+        padding: 0.5em;
+    }
+}
+
 @media (max-width: 480px) {
     #headerimg {
         width: 300px;
+        padding: 0;
+        text-align: center;
     }
 }

@@ -162,8 +162,20 @@ p {
     width: 70%;
 }
 
+@media (max-width: 800px) {
+    #headerimg {
+        width: 600px;
+    }
+    .buscard {
+        width: 75%;
+    }
+}
+
 @media (max-width: 480px) {
     #headerimg {
         width: 300px;
+    }
+    .box {
+        width: 75%;
     }
 }
