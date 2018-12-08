@@ -154,6 +154,16 @@ p {
     padding: 0;
 }
 
-.del2 {
+#visitkort {
     background: #E3D4C8;
+}
+
+#headerimg {
+    width: 70%;
+}
+
+@media (max-width: 480px) {
+    #headerimg {
+        width: 300px;
+    }
 }

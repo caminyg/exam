@@ -137,4 +137,12 @@ figcaption {
     font-style: italic;    
 }
 
+#headerimg {
+    width: 70%;
+}
 
+@media (max-width: 480px) {
+    #headerimg {
+        width: 300px;
+    }
+}
