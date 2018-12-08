@@ -141,3 +141,13 @@ ul {
 	list-style-type: none;
     text-align: left;
 }
+
+#headerimg {
+    width: 70%;
+}
+
+@media (max-width: 480px) {
+    #headerimg {
+        width: 300px;
+    }
+}
