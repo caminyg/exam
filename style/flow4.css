@@ -28,7 +28,7 @@ body {
     word-spacing: 1em;
 }
 #nav a:hover {
-    color: #303030;
+    color: #7c461e;
 }
 .text {
     text-decoration: none;
@@ -58,7 +58,7 @@ body {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #ECE7D5;
+    background-color: #fdf9f9;
     opacity: 0.9;
     z-index: 1;
     text-align: center;
@@ -74,7 +74,7 @@ body {
     font-size: 1em;
 }
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #e1d2c6;}
+.dropdown-content a:hover {background-color: #c6ab94;}
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 #main {
