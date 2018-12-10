@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: #EBE4D3;
+    background-color: #fdf9f9;
 }
 
 #container {
@@ -99,7 +99,7 @@ body {
     width: 100%;
     resize: vertical;
     margin: 0 auto;
-    background: #D8C5B5;
+    background: rgba(167, 174, 159, 0.5);
     margin-top: 1em;
 }
 
@@ -107,21 +107,21 @@ body {
     padding: 1em;;
     width: 60%;
     border: none;
-    background: #E1D2C6;
+    background: #fdf9f9;
     font-family: 'IM Fell Double Pica', serif;
     color: #A46A37;
 }
 
 #messagebox {
     height: 10em;
-    background: #E1D2C6;
+    background: #fdf9f9;
 }
 
 #submitbutton {
     margin-bottom: 1em;
     padding: 0.75em;
     border: none;
-    background-color: #E1D2C6;
+    background-color: #fdf9f9;
     cursor: pointer;
     font-family: 'IM Fell Double Pica', serif;
     color: #A46A37;
@@ -153,10 +153,6 @@ p {
 .buscard {
     width: 40%;
     padding: 0;
-}
-
-#visitkort {
-    background: #D8C5B5;
 }
 
 #headerimg {

@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: #EBE4D3;
+    background-color: #fdf9f9;
 }
 
 #container {
@@ -96,7 +96,7 @@ body {
 }
 
 .links {
-    background-color: #CFB8A5;
+    background-color: #c6ab94;
     padding: 1em;
     text-decoration: none;
     color: #303030;
@@ -109,7 +109,7 @@ body {
 }
 
 .content {
-    background: #D8C5B5;
+    background: rgba(198, 171, 148, 0.5);
     padding: 1em;
     margin: 0 auto;
     width: 100%;

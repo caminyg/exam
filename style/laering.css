@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: #EBE4D3;
+    background-color: #fdf9f9;
 }
 
 #container {
@@ -107,7 +107,7 @@ body {
 }
 
 #tekst {
-    background-color: #D8C5B5;
+    background-color: rgba(167, 174, 159, 0.5);
     padding-bottom: 1em;
 }
 

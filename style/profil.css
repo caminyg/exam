@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: #EBE4D3;
+    background-color: #fdf9f9;
 }
 
 #container {
@@ -79,7 +79,7 @@ body {
 .dropdown:hover .dropdown-content {display: block;}
 #main {
     min-height: 65vh;
-    background-color: #cfb8a5;
+    background-color: rgba(167, 174, 159, 0.5);
 }
 .overskrift {
     font-size: 1.5em;
@@ -127,7 +127,7 @@ body {
 /* Container for skill bars */
 .skill {
     width: 100%; /* Full width */
-    background-color: #e3dcd1; /* Grey background */
+    background-color: #fdf9f9; /* Grey background */
     border-radius: 40px;
 }
 
@@ -147,28 +147,18 @@ p {
     color: #303030;
 }
 
-.html {width: 55%; background-color: #cfb8a5;}
-.css {width: 55%; background-color: #cfb8a5;}
-.js {width: 40%; background-color: #cfb8a5;}
-.photoshop {width: 65%; background-color: #cfb8a5;}
-.illu {width: 75%; background-color: #cfb8a5;}
-.dream {width: 65%; background-color: #cfb8a5;}
-.xd {width: 90%; background-color: #cfb8a5;}
+.html {width: 55%; background-color: #A7AE9F;}
+.css {width: 55%; background-color: #A7AE9F;}
+.js {width: 40%; background-color: #A7AE9F;}
+.photoshop {width: 65%; background-color: #A7AE9F;}
+.illu {width: 75%; background-color: #A7AE9F;}
+.dream {width: 65%; background-color: #A7AE9F;}
+.xd {width: 90%; background-color: #A7AE9F;}
 
-#del1 {
-    background-color: #e1d2c6;
-}
 
-#del2 {
-    background-color: #d8c5b5;
-}
 
 #kompe {
     text-align: left;
-}
-
-#del3 {
-    background-color: #cfb8a5; 
 }
 
 .final {
