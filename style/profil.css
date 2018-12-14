@@ -77,10 +77,12 @@ body {
 .dropdown-content a:hover {background-color: #c6ab94;}
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
+
 #main {
     min-height: 65vh;
     background-color: rgba(167, 174, 159, 0.5);
 }
+
 .overskrift {
     font-size: 1.5em;
     padding-top: 1em;
@@ -147,6 +149,10 @@ p {
     color: #303030;
 }
 
+.titels {
+    line-height: 0em;
+}
+
 .html {width: 55%; background-color: #A7AE9F;}
 .css {width: 55%; background-color: #A7AE9F;}
 .js {width: 40%; background-color: #A7AE9F;}
@@ -165,7 +171,7 @@ p {
     width: 60%;
     text-align: left;
     margin: 0 auto;
-    padding-bottom: 1em;
+    padding-bottom: 2em;
 }
 
 a {
@@ -174,6 +180,11 @@ a {
 
 #headerimg {
     width: 70%;
+}
+
+hr {
+    width: 75%;
+    color: #A7AE9F;
 }
 
 @media (max-width: 800px) {
@@ -188,5 +199,31 @@ a {
     }
     .kompetencer {
         width: 75%;
+    }
+    #main {
+        width: 100%;
+    }
+    .overskrift {
+        width: 90%;
+    }
+    .portrait {
+        width: 90%;
+    }
+    .profiltekst {
+        width: 100%;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    #del2 {
+        width: 100%;
+    }
+    #kompe {
+        width: 100%;
+    }
+    #del3 {
+        width: 100%;
+    }
+    .final {
+        width: 90%;
     }
 }

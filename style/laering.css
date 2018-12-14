@@ -151,4 +151,12 @@ figcaption {
     #headerimg {
         width: 300px;
     }
+    p {
+        width: 90%;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    .figureimg {
+        width: 100%;
+    }
 }

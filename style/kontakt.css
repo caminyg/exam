@@ -173,6 +173,9 @@ p {
         width: 300px;
     }
     .box {
-        width: 75%;
+        width: 90%;
+    }
+    .buscard {
+        width: 90%;
     }
 }
