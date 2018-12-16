@@ -149,6 +149,9 @@ figcaption {
     #headerimg {
         width: 600px;
     }
+    .image {
+        width: 100%;
+    }
 }
 
 @media (max-width: 480px) {

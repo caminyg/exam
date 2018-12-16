@@ -138,14 +138,10 @@ body {
 }
 
 .feedbackpara {
-    width: 50%;
+    width: 60%;
     color: #303030;
-    margin: 0 auto;
-}
-
-ul {
-	list-style-type: none;
     text-align: left;
+    margin: 0 auto;
 }
 
 #headerimg {
@@ -170,10 +166,6 @@ ul {
     }
     #image {
         width: 90%;
-    }
-    .feedback {
-        width: 90%;
-        margin: 0;
     }
     .paragraf {
         width: 90%;

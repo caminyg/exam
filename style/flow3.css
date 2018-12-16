@@ -139,14 +139,10 @@ body {
 }
 
 .feedbackpara {
-    width: 50%;
+    width: 60%;
     color: #303030;
-    margin: 0 auto;
-}
-
-ul {
-	list-style-type: none;
     text-align: left;
+    margin: 0 auto;
 }
 
 #link {
