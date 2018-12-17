@@ -162,9 +162,8 @@ p {
     margin: 0 auto;
 }
 
-#link {
+.link {
     color: #A46A37;
-    text-decoration: underline;
 }
 
 #headerimg {

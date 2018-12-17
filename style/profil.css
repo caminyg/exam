@@ -184,7 +184,10 @@ a {
 
 hr {
     width: 75%;
+    height: 2px;
+    border-width: 0;
     color: #A7AE9F;
+    background-color: #A7AE9F;  
 }
 
 @media (max-width: 800px) {
