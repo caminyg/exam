@@ -124,6 +124,10 @@ body {
     width: 100%;
 }
 
+a {
+    color: #A46A37;
+}
+
 .paragraf {
     width: 60%;
     color: #303030;
